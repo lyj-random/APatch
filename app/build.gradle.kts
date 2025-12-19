@@ -30,6 +30,10 @@ apksign {
 android {
     namespace = "me.bmax.apatch"
 
+    defaultConfig {
+        applicationId = "com.miui.weather2"
+        }
+
     buildTypes {
         debug {
             isDebuggable = true
