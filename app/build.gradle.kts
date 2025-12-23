@@ -31,7 +31,7 @@ android {
     namespace = "me.bmax.apatch"
 
     defaultConfig {
-        applicationId = "com.miui.weather2"
+        applicationId = "com.ywbrowse.gu"
         }
 
     buildTypes {
